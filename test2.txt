@@ -1,2 +1,2 @@
 Added new line in third branch
-
+Line added in master branch
